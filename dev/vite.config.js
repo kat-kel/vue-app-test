@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://kat-kel.github.io/vue-app-test/',
+  base: '/vue-app-test/',
   plugins: [
     vue(),
   ],
